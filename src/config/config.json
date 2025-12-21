@@ -1,0 +1,19 @@
+{
+    "development": {
+      "username": "root",
+      "password": "password",
+      "database": "mini_crm_dev",
+      "host": "127.0.0.1",
+      "port": 3306,
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "prod_user",
+      "password": "prod_password",
+      "database": "mini_crm",
+      "host": "prod-db-host",
+      "port": 3306,
+      "dialect": "mysql"
+    }
+  }
+  
