@@ -1,0 +1,103 @@
+{
+  "total_records": 20,
+  "successful": 2,
+  "invalid": 2,
+  "duplicates": 16,
+  "invalidRecords": [
+    {
+      "row": 10,
+      "reason": [
+        "INVALID_PHONE",
+        "SUSPICIOUS_NAME"
+      ]
+    },
+    {
+      "row": 16,
+      "reason": [
+        "INVALID_PHONE"
+      ]
+    }
+  ],
+  "duplicateRecords": [
+    {
+      "row": 3,
+      "phone": "+905321112233",
+      "reason": "DUPLICATE_PHONE"
+    },
+    {
+      "row": 4,
+      "phone": "+905321112233",
+      "reason": "DUPLICATE_PHONE"
+    },
+    {
+      "row": 5,
+      "phone": "+905321112233",
+      "reason": "DUPLICATE_PHONE"
+    },
+    {
+      "row": 6,
+      "phone": "+905321112233",
+      "reason": "DUPLICATE_PHONE"
+    },
+    {
+      "row": 7,
+      "phone": "+905321112233",
+      "reason": "DUPLICATE_PHONE"
+    },
+    {
+      "row": 8,
+      "phone": "+905321112233",
+      "reason": "DUPLICATE_PHONE"
+    },
+    {
+      "row": 9,
+      "phone": "+905321112233",
+      "reason": "DUPLICATE_PHONE"
+    },
+    {
+      "row": 12,
+      "phone": "+905554443322",
+      "reason": "DUPLICATE_PHONE"
+    },
+    {
+      "row": 13,
+      "phone": "+905321112233",
+      "reason": "DUPLICATE_PHONE"
+    },
+    {
+      "row": 14,
+      "phone": "+905321112233",
+      "reason": "DUPLICATE_PHONE"
+    },
+    {
+      "row": 15,
+      "phone": "+905321112233",
+      "reason": "DUPLICATE_PHONE"
+    },
+    {
+      "row": 17,
+      "phone": "+905321112233",
+      "reason": "DUPLICATE_PHONE"
+    },
+    {
+      "row": 18,
+      "phone": "+905321112233",
+      "reason": "DUPLICATE_PHONE"
+    },
+    {
+      "row": 19,
+      "phone": "+905321112233",
+      "reason": "DUPLICATE_PHONE"
+    },
+    {
+      "row": 20,
+      "phone": "+905321112233",
+      "reason": "DUPLICATE_PHONE"
+    },
+    {
+      "row": 21,
+      "phone": "+905321112233",
+      "reason": "DUPLICATE_PHONE"
+    }
+  ]
+}
